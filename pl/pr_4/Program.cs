@@ -1,5 +1,5 @@
 ﻿using System;
-class learning {
+class pr_4 {
     static void Main()
     {
         double[] arr = { 3.5, -2.7, 0, 1.2, 0, -4.1, 5.9, 0, 2.4 };

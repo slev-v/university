@@ -1,5 +1,5 @@
 ﻿using System;
-class learning {
+class pr_3 {
     static void Main()
     {
         Console.Write("Введите номер задания: ");

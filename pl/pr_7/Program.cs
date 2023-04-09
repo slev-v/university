@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿class pr_3
-=======
 class pr_3
->>>>>>> 285b2a6102fdbb0b9191ec719a1c2a373743c714
 {
     static void Main()
     {

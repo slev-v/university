@@ -5,3 +5,6 @@ obj/
 
 *.csproj
 *.sln
+pl/lr/lr_9/Form1.Designer.cs
+pl/lr/lr_9/Form1.resx
+pl/lr/lr_9/lr_9.csproj.user

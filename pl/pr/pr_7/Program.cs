@@ -1,4 +1,4 @@
-class pr_3
+class pr_7
 {
     static void Main()
     {
